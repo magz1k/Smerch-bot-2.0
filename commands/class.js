@@ -4,40 +4,40 @@ module.exports.run = async (bot, message, args) => {
     const wowClass = args[0]
     switch (wowClass) {
         case 'mage':
-            message.channel.send('https://discordapp.com/invite/0gLMHikX2aaLQJ9W');
+            message.channel.send('some url');
             break;
         case 'dk':
-            message.channel.send('https://discord.gg/acherus');
+            message.channel.send('some url');
             break;
         case 'dh':
-            message.channel.send('https://discord.gg/zGGkNGC');
+            message.channel.send('some url');
             break;
         case 'hunter':
-            message.channel.send('https://discord.gg/yqer4BX');
+            message.channel.send('some url');
             break;
         case 'monk':
-            message.channel.send('http://discord.gg/peakofserenity');
+            message.channel.send('some url');
             break;
         case 'paladin':
-            message.channel.send('https://discord.gg/0dvRDgpa5xZHFfnD');
+            message.channel.send('some url');
             break;
         case 'priest':
-            message.channel.send('https://discord.gg/HowToPriest');
+            message.channel.send('some url');
             break;
         case 'rogue':
-            message.channel.send('https://discord.gg/0h08tydxoNhfDVZf');
+            message.channel.send('some url');
             break;
         case 'shaman':
-            message.channel.send('https://discord.gg/earthshrine');
+            message.channel.send('some url');
             break;
         case 'warlock':
-            message.channel.send('https://discord.gg/0onXDymd9Wpc2CEu');
+            message.channel.send('some url');
             break;
         case 'warrior':
-            message.channel.send('https://discord.gg/0pYY7932lTH4FHW6');
+            message.channel.send('some url6');
             break;
         case 'druid':
-            message.channel.send('https://discord.gg/0dWu0WkuetF87H9H');
+            message.channel.send('some url');
             break;
     }
 
