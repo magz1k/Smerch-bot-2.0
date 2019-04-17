@@ -1,0 +1,25 @@
+{
+  "name": "garrosh",
+  "version": "1.0.0",
+  "description": "world of warcraft discord bot",
+  "main": "bot.js",
+  "dependencies": {
+    "blizzard.js": "^2.3.0",
+    "discord.js": "^11.3.2",
+    "nodemon": "^1.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danex2/Garrosh.git"
+  },
+  "author": "Danex2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danex2/Garrosh/issues"
+  },
+  "homepage": "https://github.com/Danex2/Garrosh#readme"
+}
